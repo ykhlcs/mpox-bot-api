@@ -1,4 +1,4 @@
-sdk: spaces
+sdk: gradio
 sdk_version: 0.1.0
 app_file: app.py
 python_version: 3.10
